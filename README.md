@@ -28,5 +28,5 @@ I came; I'm here; I conquer (veni; vidi; vici).
 
 (題引) 大道之行也 講信修睦... (Null) The major way to walk as of saying trustihood and training mood...
 
-** Usaage
-...
+## Usage
+(wala...)
