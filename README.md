@@ -13,8 +13,6 @@ I came; I'm here; I conquer (veni; vidi; vici).
 
 
 ## Introduction
-
-
 **Proposition**
 
 三民主義 五權憲法
