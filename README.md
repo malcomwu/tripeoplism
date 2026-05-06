@@ -1,4 +1,4 @@
-# tripeoplism v2.0.1
+# tripeoplism v2.0.2
 You and me are the same in freedom whilst you and I are identicals for the liberty.
 
 ## Slogan
@@ -30,3 +30,13 @@ I came; I'm here; I conquer (veni; vidi; vici).
 
 ## Usage
 (wala...)
+(wala...)
+
+## Development
+Codename: 'taste' for the human's taste.
+
+## Contrition
+By the creative common license
+
+## License
+(To do: Add the license file)
