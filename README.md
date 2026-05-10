@@ -1,5 +1,5 @@
 # tripeoplism v2.0.2
-You and me are the same in freedom whilst you and I are identicals for the liberty.
+You and me are the same in freedom whilst you and I are idividuals for the liberty.
 
 ## Slogan
 Of the people, by the people, and for the people
